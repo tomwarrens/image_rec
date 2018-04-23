@@ -1,0 +1,7 @@
+numpy
+pandas
+keras
+tensorflow
+cv2
+matplotlib
+os
